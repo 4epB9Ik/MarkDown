@@ -28,3 +28,27 @@
 - [ ] Легендарный молот - не копает обсидиан
 - [ ] Селеби домики - абуз ПТ, через ломание с помощью ТНТ, а так же используя твинки
 - [ ] Чат в GUI боя. Сделать адекватным (Размеры, переенос текста по строчно и т.д)
+
+**Новые модели**
+- [x] Dipplin #1011
+- [x] Poltchageist #1012
+	* Forms: ARTISAN, COUNTERFEIT
+- [x] Sinistcha #1013
+	* Forms: UNREMARKABLE, MASTERPIECE
+- [x] Okidogi #1014
+- [x] Munkidori #1015
+- [x] Fezandipiti #1016
+- [x] Ogerpon #1017
+    * Forms: TEAL, WELLSPRING,  HEARTHFLAME,  CORNERSTONE
+- [x] Archaludon #1018
+- [x] Hydrapple #1019
+- [x] Gouging_Fire #1020
+- [x] Raging_Bolt #1021
+- [x] Iron_Boulder #1022
+- [x] Iron_Crown #1023
+- [ ] Terapagos #1024
+   * Forms: Normal, Terastal, Stellar
+- [ ] Pecharunt #1025
+
+- [ ] Таурос (#0128)
+    * Forms: Combat, Blaze, Aqua Breed Tauros
