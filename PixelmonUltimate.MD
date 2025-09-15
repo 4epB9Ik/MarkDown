@@ -58,4 +58,5 @@
     * Forms: Combat, Blaze, Aqua Breed Tauros
 
 **Турниры**
-- [ ] Привязать турниры к API турнирных досок https://api.challonge.com/ru/v1 ключ: wlOC5g51zpvGe1TDxc0Uw6IbLn8fLQWVL81kBzpC
+- [ ] Привязать турниры к API турнирных досок https://api.challonge.com/ru/v1 
+
